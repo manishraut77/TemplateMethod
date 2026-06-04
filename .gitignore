@@ -1,7 +1,10 @@
 .DS_Store
 __pycache__/
 *.pyc
+
 processed_npys/
 normalized_csvs/
-.env
 
+PIPELINE_DETAILS.md
+*.docx
+*.pptx
